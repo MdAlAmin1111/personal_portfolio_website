@@ -1,2 +1,1 @@
-# personal_portfolio_website
-University Project
+# personal-site
