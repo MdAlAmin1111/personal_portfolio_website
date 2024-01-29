@@ -308,7 +308,7 @@ p{
   
   @keyframes bs{
       to{
-          width: 0%;
+          width: 80%;
       }
   }
  
@@ -318,7 +318,7 @@ animation-name: java;
  
  @keyframes java{
      to{
-         width: 65%;
+         width: 80%;
      }
  }
  
