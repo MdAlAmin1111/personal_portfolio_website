@@ -298,7 +298,7 @@ p{
  
  @keyframes css{
      to{
-         width: 80%;
+         width: 90%;
      }
  }
  
@@ -308,7 +308,7 @@ p{
   
   @keyframes bs{
       to{
-          width: 80%;
+          width: 90%;
       }
   }
  
@@ -349,7 +349,7 @@ animation-name: java;
   
   @keyframes github{
       to{
-          width: 30%;
+          width: 95%;
       }
   }
   
